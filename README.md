@@ -122,10 +122,10 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Ryan Jigo**
+Soorya Prasad
 
-GitHub: https://github.com/Ryan-Jigo
+GitHub: https://github.com/spiritedthrone
 
 ---
 
-Made with ❤️ by Ryan Jigo
+Made with ❤️ by Soorya Prasad
